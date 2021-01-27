@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Fullstack/static/css/main.2bf0737e.chunk.css",
-    "main.js": "/Fullstack/static/js/main.929146bb.chunk.js",
-    "main.js.map": "/Fullstack/static/js/main.929146bb.chunk.js.map",
+    "main.js": "/Fullstack/static/js/main.a2330fad.chunk.js",
+    "main.js.map": "/Fullstack/static/js/main.a2330fad.chunk.js.map",
     "runtime-main.js": "/Fullstack/static/js/runtime-main.9355a52e.js",
     "runtime-main.js.map": "/Fullstack/static/js/runtime-main.9355a52e.js.map",
     "static/css/2.155f6fba.chunk.css": "/Fullstack/static/css/2.155f6fba.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.155f6fba.chunk.css",
     "static/js/2.bd1942ee.chunk.js",
     "static/css/main.2bf0737e.chunk.css",
-    "static/js/main.929146bb.chunk.js"
+    "static/js/main.a2330fad.chunk.js"
   ]
 }
