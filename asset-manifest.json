@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Fullstack/static/css/main.2bf0737e.chunk.css",
+    "main.js": "/Fullstack/static/js/main.929146bb.chunk.js",
+    "main.js.map": "/Fullstack/static/js/main.929146bb.chunk.js.map",
+    "runtime-main.js": "/Fullstack/static/js/runtime-main.9355a52e.js",
+    "runtime-main.js.map": "/Fullstack/static/js/runtime-main.9355a52e.js.map",
+    "static/css/2.155f6fba.chunk.css": "/Fullstack/static/css/2.155f6fba.chunk.css",
+    "static/js/2.bd1942ee.chunk.js": "/Fullstack/static/js/2.bd1942ee.chunk.js",
+    "static/js/2.bd1942ee.chunk.js.map": "/Fullstack/static/js/2.bd1942ee.chunk.js.map",
+    "index.html": "/Fullstack/index.html",
+    "static/css/2.155f6fba.chunk.css.map": "/Fullstack/static/css/2.155f6fba.chunk.css.map",
+    "static/css/main.2bf0737e.chunk.css.map": "/Fullstack/static/css/main.2bf0737e.chunk.css.map",
+    "static/js/2.bd1942ee.chunk.js.LICENSE.txt": "/Fullstack/static/js/2.bd1942ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Fullstack/static/media/banner.06c664cf.jpg",
+    "static/media/calculator.619336c7.jpg": "/Fullstack/static/media/calculator.619336c7.jpg",
+    "static/media/clock.977d90f4.jpg": "/Fullstack/static/media/clock.977d90f4.jpg",
+    "static/media/notes.efc687dc.jpg": "/Fullstack/static/media/notes.efc687dc.jpg",
+    "static/media/portfoliologo.d721f287.png": "/Fullstack/static/media/portfoliologo.d721f287.png",
+    "static/media/self.1164acd7.jpg": "/Fullstack/static/media/self.1164acd7.jpg",
+    "static/media/skills.41d84077.jpg": "/Fullstack/static/media/skills.41d84077.jpg",
+    "static/media/weather.58b3bc1d.jpg": "/Fullstack/static/media/weather.58b3bc1d.jpg",
+    "static/media/website.280116ba.jpg": "/Fullstack/static/media/website.280116ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9355a52e.js",
+    "static/css/2.155f6fba.chunk.css",
+    "static/js/2.bd1942ee.chunk.js",
+    "static/css/main.2bf0737e.chunk.css",
+    "static/js/main.929146bb.chunk.js"
+  ]
+}
